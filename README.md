@@ -76,6 +76,4 @@ The dataset is obtained from Kaggle: [Heart Failure Clinical Data](https://www.k
 
 - Kim, J. (2017). Cramer's V for Effect Size in Chi-Square Test of Independence.
 
----
 
-Feel free to adjust any sections based on your specific project needs!
